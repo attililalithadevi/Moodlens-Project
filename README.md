@@ -1,5 +1,6 @@
 # Moodlens-Project
 AI-Powered Emotion Detection System
+
 **Overview**
 MoodLens is an innovative emotion detection system built with Python, leveraging AI and computer vision to analyze facial emotions from images. Whether capturing a live photo via webcam or uploading an existing image, MoodLens uses the DeepFace library to detect emotions (e.g., happy, sad, angry) and visualizes results in an interactive bar graph. Designed for Google Colab with an intuitive ipywidgets-based interface, this project showcases a blend of technical skills and practical application.
 
@@ -109,7 +110,11 @@ Write clean, well-documented code (see line-by-line comments in the notebook).
 Innovate in cloud-based environments like Colab.
 
 # Contact
-Author: Lalitha Devi Attili
-Email: attililalithad03@gmail.com
-LinkedIn: https://www.linkedin.com/in/lalitha-devi-attili/
-GitHub: https://github.com/attililalithadevi
+
+**Author:** Lalitha Devi Attili
+
+**Email:** attililalithad03@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/lalitha-devi-attili/
+
+**GitHub:** https://github.com/attililalithadevi
